@@ -1,0 +1,9 @@
+.navbar-light .navbrand.navbar-brand {
+    color: #fff;
+}
+.mystyle{
+    background: red !important;
+}
+/* .navbar-dark #myid .navbar-toggler-icon{
+      background: url('assets/images/img-home.jpg') center center/cover no-repeat;
+} */
